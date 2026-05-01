@@ -6,7 +6,7 @@ Mini repo for shaping Joel's CascadiaJS June talk about agent swarms, AT Protoco
 
 Agent swarms stop being sci-fi when agents have durable identity, shared protocols, addressable workspaces, and cheap edge coordination primitives.
 
-Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Queues, D1/R2/KV, Browser Rendering, AI Gateway, Vectorize, Realtime, and now Dynamic Workflows start to look like a practical substrate for distributed agent systems rather than a pile of disconnected platform features.
+Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dynamic Workflows, Queues, Artifacts, D1/R2/KV, Browser Rendering, AI Gateway, Vectorize, and Realtime start to look like a practical substrate for distributed agent systems rather than a pile of disconnected platform features.
 
 ## Current source links
 
@@ -16,6 +16,7 @@ Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Qu
 - ATProto Agent Network: https://github.com/joelhooks/atproto-agent-network
 - Flue: https://github.com/withastro/flue
 - Cloudflare Dynamic Workflows: https://blog.cloudflare.com/dynamic-workflows/?utm_campaign=cf_blog&utm_content=20260501&utm_medium=organic_social&utm_source=twitter
+- Cloudflare Artifacts: https://developers.cloudflare.com/artifacts/
 - Skills / grill-with-docs: https://github.com/mattpocock/skills
 
 ## Working narrative questions

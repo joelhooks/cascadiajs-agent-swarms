@@ -22,7 +22,8 @@ Cloudflare’s primitives are starting to look like the missing runtime layer fo
 | Dynamic Workflows | runtime-defined task graphs / agent-composed workflows |
 | Queues | async handoff and backpressure |
 | D1 | relational state / audit tables |
-| R2 | artifacts, transcripts, generated files, model outputs |
+| R2 | raw blobs, transcripts, generated files, model outputs |
+| Artifacts | versioned file trees, Git-compatible agent workspaces, branch/fork/diff/merge handoff |
 | KV | config, caches, lightweight lookup |
 | Vectorize | memory / retrieval |
 | AI Gateway | model routing, metering, governance |
@@ -34,6 +35,18 @@ Cloudflare’s primitives are starting to look like the missing runtime layer fo
 https://blog.cloudflare.com/dynamic-workflows/?utm_campaign=cf_blog&utm_content=20260501&utm_medium=organic_social&utm_source=twitter
 
 Initial read hypothesis: Dynamic Workflows matters because agent systems rarely know the whole DAG upfront. If agents can define or extend workflow shape at runtime without abandoning durability, that’s a major step toward swarms that are less toy-demo and more operational fabric.
+
+## Artifacts source
+
+https://developers.cloudflare.com/artifacts/
+
+Artifacts stores versioned file trees behind a Git-compatible interface. That matters for agent swarms because file trees are the native shape of software work. One repo per agent, user, branch, or task gives a clean isolation boundary; Git clients and Git-aware tools already know how to diff, merge, fork, and hand off that work.
+
+This is stronger than treating generated output as blobs in R2. R2 is storage. Artifacts is a collaboration surface.
+
+Potential talk line:
+
+> Agents do not just need memory. They need workspaces they can fork, mutate, diff, and merge.
 
 ## Narrative caution
 

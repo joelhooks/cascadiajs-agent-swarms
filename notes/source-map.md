@@ -44,6 +44,14 @@ URL: https://blog.cloudflare.com/dynamic-workflows/?utm_campaign=cf_blog&utm_con
 
 Likely contribution: runtime-defined durable workflows; important for agents because plan shape changes as agents discover work.
 
+## Cloudflare Artifacts
+
+URL: https://developers.cloudflare.com/artifacts/
+
+Extracted summary: Artifacts stores versioned file trees behind a Git-compatible interface. Repositories can be created programmatically, imported, and addressed from Workers, REST API, and Git clients. Cloudflare explicitly frames this as useful for Git-aware tools, agents, automation, isolated parallel execution, fork/diff/merge workflows, and one repo per agent/user/branch/task.
+
+Likely contribution: agent workspaces. Swarms need isolated, versioned, mergeable file trees, not just blob storage. This connects directly to sub-agent handoff, review, and parallel work.
+
 ## grill-with-docs
 
 Installed from:
