@@ -8,7 +8,15 @@ This repo is a thinking space for the CascadiaJS 2026 talk. It is not an impleme
 
 ### Agent swarm
 
-A group of agents coordinating around shared work. The important part is not “many agents”; it is coordination under partial knowledge, bounded autonomy, and observable handoff.
+A multiplayer agentic distributed system for accomplishing units of work asynchronously. The important part is not “many agents”; it is coordination under partial knowledge, bounded autonomy, isolated workspaces, and observable handoff.
+
+### Unit of work
+
+A bounded chunk of work that can be claimed, attempted, reviewed, retried, merged, rejected, or handed off. A swarm needs units of work because “go do stuff” cannot be coordinated, observed, or recovered.
+
+### Multiplayer agentic system
+
+A system where multiple agents and humans can participate in the same work fabric without sharing a single process, chat thread, or context window. Multiplayer implies identity, presence, permissions, shared artifacts, and conflict resolution.
 
 ### Agent network
 

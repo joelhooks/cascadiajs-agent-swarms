@@ -34,6 +34,7 @@ Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dy
 - `notes/narrative-seeds.md` — rough talk themes
 - `notes/cloudflare-substrate.md` — Cloudflare primitives to highlight
 - `notes/demo-ideas.md` — candidate demos
+- `notes/agents-of-catan-demo-spine.md` — current strongest demo/narrative spine
 - `docs/adr/` — decisions once they harden
 
 ## Immediate next moves
