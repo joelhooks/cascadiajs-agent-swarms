@@ -134,3 +134,10 @@ npx skills add https://github.com/mattpocock/skills --skill grill-with-docs -g -
 ```
 
 Use it to interrogate the talk once `CONTEXT.md` and first outline exist.
+
+## Maggie Appleton — Collaborative AI Engineering
+
+- Source: https://www.youtube.com/watch?v=ClWD8OEYgp8
+- Local transcript: `/Users/joel/Downloads/video-ingest/ClWD8OEYgp8/transcript.md`
+- Notes: `notes/maggie-appleton-collaborative-ai-engineering.md`
+- Concept contribution: single-player agent tools create multiplayer coordination debt; the missing primitive is the shared agentic session.
