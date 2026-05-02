@@ -77,6 +77,30 @@ Likely contribution: preparation method. Talks are verbal performances, so prep 
 
 Captured notes: `notes/talk-prep-method.md`
 
+## Addy Osmani: agent-skills repo
+
+URL: https://github.com/addyosmani/agent-skills
+
+Likely contribution: concrete skill/persona/orchestration package. The repo encodes engineering work as lifecycle commands, skills, personas, checklists, hooks, and orchestration patterns. Strong evidence for the cartridge frame: domain rules + roles + tools + workflows + verification gates packaged as reusable agent substrate.
+
+Captured notes: `notes/addy-agent-skills-repo.md`
+
+## Addy Osmani: The Factory Model
+
+URL: https://addyosmani.com/blog/factory-model/
+
+Likely contribution: economic/productivity frame for autonomous agent work. Addy argues engineering shifts from writing code to building the factory that builds software. Useful but slightly sterile; CascadiaJS can use it as contrast. Factory explains production leverage, games explain play/coordination/rules/consequence, cartridge packages both.
+
+Captured notes: `notes/addy-factory-model.md`
+
+## Karpathy: LLM Knowledge Bases
+
+URL: https://x.com/karpathy/status/2039805659525644595
+
+Likely contribution: knowledge-base-as-compiled-artifact frame. Karpathy describes collecting raw sources, having an LLM compile a markdown wiki, querying it, rendering outputs, filing outputs back into the wiki, and running LLM health checks. This maps directly to the CascadiaJS repo as a talk/research cartridge.
+
+Captured notes: `notes/karpathy-llm-knowledge-bases.md`
+
 ## Addy Osmani: Long-running Agents / Harness Engineering
 
 URLs:
