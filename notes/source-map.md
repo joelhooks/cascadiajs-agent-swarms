@@ -77,6 +77,17 @@ Likely contribution: preparation method. Talks are verbal performances, so prep 
 
 Captured notes: `notes/talk-prep-method.md`
 
+## Addy Osmani: Long-running Agents / Harness Engineering
+
+URLs:
+
+- https://addyosmani.com/blog/long-running-agents/
+- https://addyosmani.com/blog/agent-harness-engineering/
+
+Likely contribution: mainstream engineering vocabulary for the talk's architecture frame. Long-running agents need durable state, session logs, sandboxes, planners/workers/judges, memory, hooks, and verification. Harness engineering maps cleanly to the cartridge idea: a cartridge is a domain-specific harness with rules, tools, state, win conditions, and failure modes.
+
+Captured notes: `notes/addy-long-running-agents.md`
+
 ## Talk prep resource map
 
 Captured notes: `notes/talk-prep-resource-map.md`
