@@ -69,6 +69,14 @@ URL: https://github.com/yusukebe/workers-routes
 
 Likely contribution: Cloudflare Workers routing/composition patterns. Needs repo read before using as pillar.
 
+## Deconstruct: How to Prepare a Talk
+
+URL: https://www.deconstructconf.com/blog/how-to-prepare-a-talk
+
+Likely contribution: preparation method. Talks are verbal performances, so prep should mostly be spoken rehearsal, not silent outline/slide polishing. Use repeated once-per-day spoken passes to discover the shape, then group/cut/design after the spoken talk starts stabilizing.
+
+Captured notes: `notes/talk-prep-method.md`
+
 ## grill-with-docs
 
 Installed from:
