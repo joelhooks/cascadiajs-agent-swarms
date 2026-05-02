@@ -20,7 +20,9 @@ Joel pointed at the X API docs after this failed. The docs confirm the split:
 - Full-Archive endpoint: `GET https://api.x.com/2/tweets/search/all`
 - Counts endpoint: `GET https://api.x.com/2/tweets/counts/all`
 
-So true YTD X backfill needs Full-Archive Search access or another source: browser-auth search, external archive/search, or Sunil export/API tier with full archive search.
+Correction: the available bot credentials do have Full-Archive Search access when used correctly. The failure was from calling the Recent Search endpoint, not from lack of account access. Use `/2/tweets/search/all` with the app bearer token derived from `x_consumer_key` + `x_consumer_secret`.
+
+A proper YTD pull now lives in `notes/research/sunil-x-ytd-full-archive.json`, with summary in `notes/research/sunil-x-ytd-full-archive-summary.md`.
 
 ## Partial YTD via web/search/blog sources
 

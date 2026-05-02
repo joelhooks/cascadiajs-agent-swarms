@@ -23,7 +23,7 @@ Relevant docs confirmed via search:
 - Full-Archive Search quickstart: https://docs.x.com/x-api/posts/search/quickstart/full-archive-search
 - Full-Archive Counts quickstart: https://docs.x.com/x-api/posts/counts/quickstart/full-archive-tweet-counts
 
-Operational note: current available token only supports recent search/windowed timeline for practical purposes; YTD account research needs Full-Archive Search (`/2/tweets/search/all`) access or a non-API archive/browser path.
+Operational note: bot credentials can access Full-Archive Search (`/2/tweets/search/all`) by deriving an app bearer token from `x_consumer_key` + `x_consumer_secret`. Do not use `/2/tweets/search/recent` for YTD account research; it will reject older `start_time` values.
 
 ## swarm-tools
 
