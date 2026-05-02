@@ -77,6 +77,19 @@ Likely contribution: preparation method. Talks are verbal performances, so prep 
 
 Captured notes: `notes/talk-prep-method.md`
 
+## Talk prep resource map
+
+Captured notes: `notes/talk-prep-resource-map.md`
+
+High-signal additions:
+
+- Zach Holman / speaking.io: https://speaking.io/
+- Practicing: https://speaking.io/prep/practicing-it/
+- Recording: https://speaking.io/prep/recording-your-talk/
+- Improving: https://speaking.io/react/improving/
+- Slide Design for Developers: https://zachholman.com/posts/slide-design-for-developers/
+- The Talk on Talks: https://zachholman.com/talk/the-talk-on-talks/
+
 ## grill-with-docs
 
 Installed from:
