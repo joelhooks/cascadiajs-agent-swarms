@@ -4,6 +4,10 @@ Mini repo for shaping Joel's CascadiaJS June talk about agent swarms, AT Protoco
 
 ## Working thesis
 
+Play is how you learn the affordances of a new medium before anyone has named the patterns.
+
+This talk uses agent swarms, game cartridges, ATProto, Cloudflare primitives, and OpenClaw-style work systems to show how playful exploration can produce useful agentic structures.
+
 Agent swarms stop being sci-fi when agents have durable identity, shared protocols, addressable workspaces, and cheap edge coordination primitives.
 
 Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dynamic Workflows, Queues, Artifacts, D1/R2/KV, Browser Rendering, AI Gateway, Vectorize, and Realtime start to look like a practical substrate for distributed agent systems rather than a pile of disconnected platform features.
@@ -36,6 +40,7 @@ Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dy
 - `notes/demo-ideas.md` — candidate demos
 - `notes/agents-of-catan-demo-spine.md` — current strongest demo/narrative spine
 - `notes/humans-in-the-swarm.md` — human roles in multiplayer agentic systems
+- `notes/play-as-method.md` — current highest-level thesis: play as useful exploration
 - `docs/adr/` — decisions once they harden
 
 ## Immediate next moves

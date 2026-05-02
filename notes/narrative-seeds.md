@@ -6,7 +6,13 @@ Bad model: “agent swarms are just a bunch of chatbots calling tools in paralle
 
 Replacement model: “agent swarms are distributed systems with identity, memory, protocols, work queues, and durable coordination.”
 
-## Possible thesis
+## Current highest-level thesis
+
+Play is how you learn the affordances of a new medium before anyone has named the patterns.
+
+The useful version of agentic coding will not emerge only from serious architecture diagrams. It will emerge from people playing with tools, inventing strange demos, discovering the hidden rules, and then translating those discoveries into useful structures.
+
+## Technical thesis
 
 The interesting future of agent swarms is not smarter prompts. It is boring distributed systems primitives becoming agent-native.
 
