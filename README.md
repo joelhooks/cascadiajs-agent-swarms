@@ -35,6 +35,7 @@ Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dy
 - `notes/cloudflare-substrate.md` — Cloudflare primitives to highlight
 - `notes/demo-ideas.md` — candidate demos
 - `notes/agents-of-catan-demo-spine.md` — current strongest demo/narrative spine
+- `notes/humans-in-the-swarm.md` — human roles in multiplayer agentic systems
 - `docs/adr/` — decisions once they harden
 
 ## Immediate next moves

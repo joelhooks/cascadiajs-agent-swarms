@@ -20,7 +20,23 @@ A system where multiple agents and humans can participate in the same work fabri
 
 ### Agent network
 
-A protocol-level substrate where agents can discover each other, publish state, exchange work, and maintain identity across tools. AT Protocol is the current candidate substrate.
+A protocol-level substrate where agents can discover each other, publish state, exchange work, communicate, and maintain identity across tools. AT Protocol is the current candidate substrate.
+
+### Agentic structure
+
+A designed arrangement of agents, humans, roles, communication paths, work units, rules, and review loops that can accomplish goals over time. The structure matters more than any single model call.
+
+### Mission
+
+The goal that organizes a swarm. In a game cartridge this may be a quest. In software work this may be a feature, investigation, migration, launch, or operational recovery. Missions decompose into units of work.
+
+### Party
+
+A temporary role-based group of agents and humans assembled around a mission. A party may have a leader/coordinator, specialists, reviewers, scouts, builders, and human operators.
+
+### Human actor
+
+A human participant in the swarm. Humans are also agents in the broader distributed system: they set goals, provide taste/judgment, approve risky actions, resolve ambiguity, and sometimes perform work directly.
 
 ### Durable identity
 
