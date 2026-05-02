@@ -14,6 +14,17 @@ URL: https://x.com/irvinebroque/status/2050282756492668941?s=46&t=uRyCCtjktRI5TQ
 
 Status: needs fetch via X API or browser because raw X scraping is unreliable.
 
+## X API docs
+
+URL: https://docs.x.com/x-api/introduction
+
+Relevant docs confirmed via search:
+
+- Full-Archive Search quickstart: https://docs.x.com/x-api/posts/search/quickstart/full-archive-search
+- Full-Archive Counts quickstart: https://docs.x.com/x-api/posts/counts/quickstart/full-archive-tweet-counts
+
+Operational note: current available token only supports recent search/windowed timeline for practical purposes; YTD account research needs Full-Archive Search (`/2/tweets/search/all`) access or a non-API archive/browser path.
+
 ## swarm-tools
 
 URL: https://github.com/joelhooks/swarm-tools
