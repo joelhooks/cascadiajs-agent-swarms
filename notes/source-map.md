@@ -141,3 +141,10 @@ Use it to interrogate the talk once `CONTEXT.md` and first outline exist.
 - Local transcript: `/Users/joel/Downloads/video-ingest/ClWD8OEYgp8/transcript.md`
 - Notes: `notes/maggie-appleton-collaborative-ai-engineering.md`
 - Concept contribution: single-player agent tools create multiplayer coordination debt; the missing primitive is the shared agentic session.
+
+## Zara Zhang — How to Build Something Small
+
+- X: https://x.com/zarazhangrui/status/2050445806428438734
+- Essay: https://zarazhang.substack.com/p/how-to-build-something-small
+- Notes: `notes/zara-build-something-small.md`
+- Concept contribution: cheap AI-native software makes small, opinionated, playful cartridges viable; humans add taste and subtraction.
