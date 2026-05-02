@@ -52,6 +52,12 @@ Extracted summary: Artifacts stores versioned file trees behind a Git-compatible
 
 Likely contribution: agent workspaces. Swarms need isolated, versioned, mergeable file trees, not just blob storage. This connects directly to sub-agent handoff, review, and parallel work.
 
+## workers-routes
+
+URL: https://github.com/yusukebe/workers-routes
+
+Likely contribution: Cloudflare Workers routing/composition patterns. Needs repo read before using as pillar.
+
 ## grill-with-docs
 
 Installed from:
