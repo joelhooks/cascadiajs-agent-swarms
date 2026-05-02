@@ -41,6 +41,7 @@ Cloudflare is a major part of the story: Workers, Durable Objects, Workflows, Dy
 - `notes/agents-of-catan-demo-spine.md` — current strongest demo/narrative spine
 - `notes/humans-in-the-swarm.md` — human roles in multiplayer agentic systems
 - `notes/play-as-method.md` — current highest-level thesis: play as useful exploration
+- `notes/play-pattern-language.md` — mapping game/play patterns to practical agentic work patterns
 - `docs/adr/` — decisions once they harden
 
 ## Immediate next moves
